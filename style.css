@@ -1,0 +1,52 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('pngtree-my-resume-background-material-image_177383.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px 0;
+}
+
+img {
+    height: 100%;
+    width: 150px;
+    margin-left: 0rem;
+    margin-top: 1rem;
+    border: 2px solid black;
+    border-radius: 5px;
+
+}
+
+main {
+    background-color: rgba(255, 255, 255, 0.8);
+    margin: 2rem auto;
+    padding: 2rem;
+    max-width: 1000px;
+    font-size: 16px;
+    text-align: justify;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+ol li {
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+ul li {
+    margin-left: 20px;
+    margin-top: 10px;
+}
